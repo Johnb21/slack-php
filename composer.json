@@ -1,0 +1,20 @@
+{
+    "name": "nab/slack-php",
+    "description": "PHP Slack Bot API Library",
+    "authors": [
+        {
+            "name": "Johnathan Belisle",
+            "email": "jbelisle@nabancard.com",
+            "role": "PHP Developer"
+        },
+        {
+            "name": "Steve Smith",
+            "email":"stsmith@nabancard.com",
+            "role": "PHP Developer"
+        }
+    ],
+    "require": {
+        "php": ">= 5.3.3",
+        "guzzlehttp/guzzle": "~4.2"
+    }
+}
